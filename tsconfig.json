@@ -29,8 +29,8 @@
       "@hooks/*": ["./src/hooks/*"],
       "@utils": ["./src/utils/index.ts"],
       "@utils/*": ["./src/utils/*"],
-      "@types": ["./src/utils/index.ts"],
-      "@types/*": ["./src/utils/*"]
+      "@types": ["./src/types/index.ts"],
+      "@types/*": ["./src/types/*"]
     }
   },
   "include": ["src"],
